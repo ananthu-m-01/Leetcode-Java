@@ -5,8 +5,8 @@ This repository contains my solutions to various problems on LeetCode. The probl
 ## Topics Covered:
 - Arrays
 
-| Index | Program Name | Time Complexity |
-|-------|--------------|-----------------|
+| Index | Program Name                | Time Complexity |
+|-------|--------------               |-----------------|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum/) | O(n)            |
 
 
