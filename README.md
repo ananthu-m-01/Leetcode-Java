@@ -4,11 +4,9 @@ This repository contains my solutions to various problems on LeetCode. The probl
 
 ## Topics Covered:
 - Arrays
-- Linked Lists
-- Trees
-- Graphs
-- Dynamic Programming
-- Recursion
-- Sorting and Searching
 
-Feel free to explore my solutions and contributions!
+| Index | Program Name | Time Complexity |
+|-------|--------------|-----------------|
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/) | O(n)            |
+
+
