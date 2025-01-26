@@ -6,4 +6,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | Index | Program Name                          | Time Complexity |
 |-------|---------------------------------------|-----------------|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum/) | O(n)|
-
+| 2     | [Remove Element](https://leetcode.com/problems/remove-element/) | O(n)|
