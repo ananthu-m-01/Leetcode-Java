@@ -5,5 +5,5 @@ This repository contains my solutions to various problems on LeetCode. The probl
 ## Week 01:
 | Index | Program Name                          | Time Complexity |
 |-------|---------------------------------------|-----------------|
-| 1     | [Two Sum](https://leetcode.com/problems/two-sum/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | O(n)            |
+| 1     | [Two Sum](https://leetcode.com/problems/two-sum/) | O(n)|
 
