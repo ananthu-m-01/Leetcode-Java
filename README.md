@@ -10,4 +10,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 3    | [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | O(n)            | Easy       |
 | 4    | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | O(log n)            | Easy       |
 | 5    | [Binary Search](https://leetcode.com/problems/binary-search/) | O(log n)            | Easy       |
-
+| 5    | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | O(n)            | Medium      |
