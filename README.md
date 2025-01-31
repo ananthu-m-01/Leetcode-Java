@@ -13,3 +13,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 6   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | O(n)            | Medium      |
 | 7    | [Plus One](https://leetcode.com/problems/plus-one/) | O(n)            | Easy      |
 | 8    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | O(n)            | Easy      |
+| 9    | [Majority Element](https://leetcode.com/problems/majority-element/) | O(n)            | Easy      |
