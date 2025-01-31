@@ -12,3 +12,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 5    | [Binary Search](https://leetcode.com/problems/binary-search/) | O(log n)            | Easy       |
 | 6   | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | O(n)            | Medium      |
 | 7    | [Plus One](https://leetcode.com/problems/plus-one/) | O(n)            | Easy      |
+| 8    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | O(n)            | Easy      |
