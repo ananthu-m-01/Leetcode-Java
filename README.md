@@ -15,4 +15,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 8    | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | O(n)            | Easy      |
 | 9    | [Majority Element](https://leetcode.com/problems/majority-element/) | O(n)            | Easy      |
 | 10    | [Missing Number](https://leetcode.com/problems/missing-number/) | O(n)            | Easy      |
-| 11    | [Missing Number](https://leetcode.com/problems/move-zeroes/) | O(n)            | Easy      |
+| 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | O(n)            | Easy      |
