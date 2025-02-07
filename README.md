@@ -16,3 +16,5 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 9    | [Majority Element](https://leetcode.com/problems/majority-element/) | O(n)            | Easy      |
 | 10    | [Missing Number](https://leetcode.com/problems/missing-number/) | O(n)            | Easy      |
 | 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | O(n)            | Easy      |
+| 12    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | O(n)            | Easy      |
+| 13    | [InterSection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | O(n)            | Easy      |
