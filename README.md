@@ -18,3 +18,4 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 11    | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | O(n)            | Easy      |
 | 12    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | O(n)            | Easy      |
 | 13    | [InterSection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | O(n)            | Easy      |
+| 14    | [Single Number](https://leetcode.com/problems/single-number/) | O(n)            | Easy      |
