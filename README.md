@@ -2,7 +2,7 @@
 
 This repository contains my solutions to various problems on LeetCode. The problems range from easy to hard and cover a wide array of topics including data structures, algorithms
 
-## Week 01 - ARRAY:
+## Week 01 - ARRAY
 | Index | Program Name                          | Time Complexity | Difficulty |
 |-------|---------------------------------------|-----------------|------------|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum/) | O(n)            | Easy       |
@@ -19,3 +19,8 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 12    | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | O(n)            | Easy      |
 | 13    | [InterSection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | O(n)            | Easy      |
 | 14    | [Single Number](https://leetcode.com/problems/single-number/) | O(n)            | Easy      |
+
+## Week 02 - String
+| Index | Program Name                          | Time Complexity | Difficulty |
+|-------|---------------------------------------|-----------------|------------|
+| 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
