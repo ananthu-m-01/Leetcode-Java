@@ -21,7 +21,8 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 14    | [Single Number](https://leetcode.com/problems/single-number/) | O(n)            | Easy      |
 
 ## Week 02 - String
-| Index | Program Name                                                          | Time Complexity | Difficulty |
-|-------|-----------------------------------------------------------------------|-----------------|------------|
-| 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
-| 1     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | O(n)            | Easy       |
+| Index | Program Name                                                                       | Time Complexity | Difficulty |
+|-------|------------------------------------------------------------------------------------|-----------------|------------|
+| 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)          | O(n)            | Easy       |
+| 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                | O(n)            | Easy       |
+| 3     | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | O(n)            | Easy       |
