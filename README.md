@@ -21,6 +21,7 @@ This repository contains my solutions to various problems on LeetCode. The probl
 | 14    | [Single Number](https://leetcode.com/problems/single-number/) | O(n)            | Easy      |
 
 ## Week 02 - String
-| Index | Program Name                          | Time Complexity | Difficulty |
-|-------|---------------------------------------|-----------------|------------|
+| Index | Program Name                                                          | Time Complexity | Difficulty |
+|-------|-----------------------------------------------------------------------|-----------------|------------|
 | 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
+| 1     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)   | O(n)            | Easy       |
