@@ -35,7 +35,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 15    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | O(n)            | Easy       |
 | 16    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                       | O(n)            | Easy      |
 ## Week 02 - String
-| Index | Program Name                                                                       | Time Complexity | Difficulty |
-|-------|------------------------------------------------------------------------------------|-----------------|------------|
-| 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)          | O(n)            | Easy       |
-| 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                | O(n)            | Easy       |
+| Index | Program Name                                                             | Time Complexity | Difficulty |
+|-------|--------------------------------------------------------------------------|-----------------|------------|
+| 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
+| 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | O(n)            | Easy       |
+| 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)      | O(n)            | Easy       |
