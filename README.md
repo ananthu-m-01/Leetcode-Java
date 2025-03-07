@@ -3,7 +3,7 @@
 This repository contains my solutions to various problems on LeetCode. The problems range from easy to hard and cover a wide array of topics including data structures, algorithms
 
 ## Common data structure algorithms 
-Before going to solve the complex leetcode (https://leetcode.com/) we might understand some basic datastructures algorithms which are commonly used!
+Before going to solve the complex [leetcode](https://leetcode.com/) we might understand some basic datastructures algorithms which are commonly used!
 
 ## One dimensional array
 | Index | Program Name                                                                                                     | Time Complexity |
