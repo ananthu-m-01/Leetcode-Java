@@ -6,12 +6,13 @@ This repository contains my solutions to various problems on LeetCode. The probl
 Before going to solve the complex [leetcode](https://leetcode.com/) problems, we might understand some basic datastructures algorithms which are commonly used!
 
 ## One dimensional array
-| Index | Program Name                                                                                                     | Time Complexity |
-|-------|------------------------------------------------------------------------------------------------------------------|----------------|
-| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/LinearSearch.java)  | O(n)           |
-| 2     | [BinarySearch](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/BinarySearch.java)   | O(log n)       |
-| 3     | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/BubbleSort.java)      | O(n²)            |
-| 4     | [Selection sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/SelectionSort.java) | O(n²)            |
+| Index | Program Name                                                                                                      | Time Complexity |
+|------|-------------------------------------------------------------------------------------------------------------------|----------------|
+| 1    | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/LinearSearch.java)   | O(n)           |
+| 2    | [BinarySearch](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/BinarySearch.java)    | O(log n)       |
+| 3    | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/BubbleSort.java)       | O(n²)            |
+| 4    | [Selection sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/SelectionSort.java) | O(n²)            |
+| 5    | [Insertion Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/InsertionSort.java) | O(n²)            |
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
