@@ -21,7 +21,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | Index | Program Name                                                                                                        | Time Complexity |
 |-------|---------------------------------------------------------------------------------------------------------------------|-----------|
 | 1     | [Palindrome](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/Palindrome.java)          | O(n)      |
-| 1     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/ReverseString.java) | O(n)      |
+| 2     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/ReverseString.java) | O(n)      |
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
