@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class LargestAndSmallestElement {
     public static void largestAndSmallest(int[] nums){
