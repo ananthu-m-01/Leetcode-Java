@@ -1,4 +1,4 @@
-package week00;
+package week00.String;
 
 public class SubString {
     public static void subString(String str1, String str2){
@@ -34,3 +34,4 @@ public class SubString {
         subString(str1,str2);
     }
 }
+
