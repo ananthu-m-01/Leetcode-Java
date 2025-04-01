@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class JobScheduling {
     public static void bubbleSort(int[] jobs,int[] deadLine,int[] profit){
