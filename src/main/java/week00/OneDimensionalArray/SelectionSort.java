@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class SelectionSort {
     public static void selectionSort(int[] nums){
