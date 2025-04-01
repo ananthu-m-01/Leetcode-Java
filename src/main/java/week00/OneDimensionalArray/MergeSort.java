@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class MergeSort {
     static int[] tempArray;
