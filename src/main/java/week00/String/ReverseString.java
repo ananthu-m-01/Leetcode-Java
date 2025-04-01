@@ -1,4 +1,4 @@
-package week00;
+package week00.String;
 
 public class ReverseString {
     public static String revesestring(String str){
@@ -17,3 +17,4 @@ public class ReverseString {
         System.out.println("reversed string : "+reversedStr);
     }
 }
+
