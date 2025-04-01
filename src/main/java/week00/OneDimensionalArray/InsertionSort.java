@@ -1,4 +1,5 @@
-package week00;
+package week00.OneDimensionalArray;
+
 
 public class InsertionSort {
     public static void insertionSort(int[] nums){
