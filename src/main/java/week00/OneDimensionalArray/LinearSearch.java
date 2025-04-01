@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class LinearSearch {
     public static void linearSearch(int[] nums,int target){
@@ -25,3 +25,4 @@ public class LinearSearch {
         linearSearch(nums,target);
     }
 }
+
