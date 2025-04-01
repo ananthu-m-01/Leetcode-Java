@@ -1,4 +1,5 @@
-package week00;
+package week00.OneDimensionalArray;
+
 
 public class FractionalKnapSack {
     public static void bubbleSort(double[] ratio,int[] weight,int[] profit){
@@ -43,3 +44,4 @@ public class FractionalKnapSack {
         System.out.println("Maximum profit: " + totalProfit);
     }
 }
+
