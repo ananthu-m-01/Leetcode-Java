@@ -1,4 +1,4 @@
-package week00;
+package week00.String;
 
 public class Palindrome {
     public static boolean isPalindrome(String str){
