@@ -7,15 +7,15 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 
 ## One dimensional array
 | Index | Program Name                                                                                                                | Time Complexity |
-|-------|-----------------------------------------------------------------------------------------------------------------------------|-----------|
-| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LinearSearch.java)             | O(n)      |
-| 2     | [Binary Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BinarySearch.java)             | O(log n)  |
-| 3     | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BubbleSort.java)                 | O(n²)     |
-| 4     | [Selection Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/SelectionSort.java)           | O(n²)     |
-| 5     | [Insertion Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/InsertionSort.java)           | O(n²)     |
-| 6     | [Shell Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/InsertionSort.java)               | O(n²)     |
+|-------|-----------------------------------------------------------------------------------------------------------------------------|---------|
+| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LinearSearch.java)             | O(n)    |
+| 2     | [Binary Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BinarySearch.java)             | O(log n) |
+| 3     | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BubbleSort.java)                 | O(n²)   |
+| 4     | [Selection Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/SelectionSort.java)           | O(n²)   |
+| 5     | [Insertion Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/InsertionSort.java)           | O(n²)   |
+| 6     | [Shell Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/ShellSort.java)               | O(n³)     |
 | 7     | [Merge Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                   | O(n log n) |
-| 8     | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n)      |
+| 8     | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n)    |
 
 ## Two dimensional array
 | Index | Program Name                                                                                                                 | Time Complexity |
