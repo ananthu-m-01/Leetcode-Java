@@ -1,4 +1,4 @@
-package week00.OneDimensionalArray;
+package week00.String;
 
 public class IndicesSumString {
     public static int indicesSumString(String str){
@@ -23,3 +23,4 @@ public class IndicesSumString {
         System.out.println(ans);
     }
 }
+
