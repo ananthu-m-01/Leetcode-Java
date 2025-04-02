@@ -7,18 +7,18 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 
 ## One dimensional array
 | Index | Program Name                                                                                                                                                    | Time Complexity |
-|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|
-| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LinearSearch.java)                             | O(n)    |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
+| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LinearSearch.java)                             | O(n) |
 | 2     | [Binary Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BinarySearch.java)                             | O(log n) |
-| 3     | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BubbleSort.java)                                 | O(n²)   |
-| 4     | [Selection Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/SelectionSort.java)                           | O(n²)   |
-| 5     | [Insertion Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/InsertionSort.java)                           | O(n²)   |
-| 6     | [Shell Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/ShellSort.java)                                   | O(n³)     |
+| 3     | [Bubble Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/BubbleSort.java)                                 | O(n²) |
+| 4     | [Selection Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/SelectionSort.java)                           | O(n²) |
+| 5     | [Insertion Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/InsertionSort.java)                           | O(n²) |
+| 6     | [Shell Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/ShellSort.java)                                   | O(n³) |
 | 7     | [Merge Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                   | O(n log n) |
 | 8     | [Heap Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                    | O(n log n) |
 | 9     | [Quick Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                   | O(n log n) |
-| 10    | [Funnel Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                  | O(n log n) |
-| 11    | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n)    |
+| 10    | [Funnel Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                  | O(n²) |
+| 11    | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n) |
 
 ## Two dimensional array
 | Index | Program Name                                                                                                                 | Time Complexity |
@@ -26,13 +26,13 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 1     | [Matrix multiplication](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/TwoDimensionalArray/MatrixMultiplication.java) | O(n³)           |
 
 ## String
-| Index | Program Name                                                                                                                             | Time Complexity |
-|-------|------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| 1     | [Palindrome](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/Palindrome.java)                        | O(n)      |
-| 2     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/ReverseString.java)               | O(n)      |
-| 3     | [Substring](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/SubString.java)                          | O(n)      |
+| Index | Program Name                | Time Complexity |
+|-------|-----------------------------|-----------|
+| 1     | [Palindrome](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/Palindrome.java) | O(n)      |
+| 2     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/ReverseString.java) | O(n)      |
+| 3     | [Substring](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/SubString.java) | O(n)      |
 | 4     | [Freequency of characters](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/FrequencyOfCharacter.java) | O(n)      |
-| 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/FrequencyOfCharacter.java)             | O(n)      |
+| 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/IndicesSumString.java)             | O(n)      |
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
