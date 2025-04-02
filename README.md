@@ -26,13 +26,14 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 1     | [Matrix multiplication](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/TwoDimensionalArray/MatrixMultiplication.java) | O(n³)           |
 
 ## String
-| Index | Program Name                | Time Complexity |
-|-------|-----------------------------|-----------|
-| 1     | [Palindrome](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/Palindrome.java) | O(n)      |
-| 2     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/ReverseString.java) | O(n)      |
-| 3     | [Substring](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/SubString.java) | O(n)      |
+| Index | Program Name                                                                                                                              | Time Complexity |
+|-------|-------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1     | [Palindrome](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/Palindrome.java)                         | O(n)      |
+| 2     | [Reverse a String](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/ReverseString.java)                | O(n)      |
+| 3     | [Substring](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/SubString.java)                           | O(n)      |
 | 4     | [Freequency of characters](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/FrequencyOfCharacter.java) | O(n)      |
-| 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/IndicesSumString.java)             | O(n)      |
+| 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/IndicesSumString.java)                  | O(n)      |
+| 6     | [Decryption Password](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/DecryptionPassword.java)          | O(n)      |
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
