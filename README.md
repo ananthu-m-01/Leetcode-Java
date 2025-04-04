@@ -21,9 +21,10 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 11    | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n) |
 
 ## Two dimensional array
-| Index | Program Name                                                                                                                 | Time Complexity |
-|-------|------------------------------------------------------------------------------------------------------------------------------|---------------|
-| 1     | [Matrix multiplication](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/TwoDimensionalArray/MatrixMultiplication.java) | O(n³)           |
+| Index | Program Name                                                                                                                                        | Time Complexity |
+|-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1     | [Matrix multiplication](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/TwoDimensionalArray/MatrixMultiplication.java) | O(n³)     |
+| 2     | [Magical Library](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/TwoDimensionalArray/MagicalLibrary.java)             | O(n²)          |
 
 ## String
 | Index | Program Name                                                                                                                              | Time Complexity |
