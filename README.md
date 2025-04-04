@@ -61,3 +61,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
 | 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | O(n)            | Easy       |
 | 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)      | O(n)            | Easy       |
+
+## Week 03 List
+| Index | Program Name                                                               | Time Complexity | Difficulty |
+|-------|----------------------------------------------------------------------------|-----------------|------------|
+| 1     | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | O(n)            | Easy       |
