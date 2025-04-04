@@ -19,6 +19,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 9     | [Quick Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                   | O(n log n) |
 | 10    | [Funnel Sort](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/MergeSort.java)                                  | O(n²) |
 | 11    | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n) |
+| 12    | [Remove Duplicates](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/RemoveDuplicates.java)                     | O(n) |
 
 ## Two dimensional array
 | Index | Program Name                                                                                                                                        | Time Complexity |
