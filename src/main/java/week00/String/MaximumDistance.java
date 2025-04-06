@@ -23,7 +23,7 @@ public class MaximumDistance {
     }
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("enter the string : ");
+        System.out.print("enter the string :");
         String str = scanner.nextLine();
         int ans = maximumDistance(str);
         System.out.println("answer : "+ans);
