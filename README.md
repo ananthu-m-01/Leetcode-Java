@@ -36,7 +36,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 3     | [Substring](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/SubString.java)                           | O(n)      |
 | 4     | [Freequency of characters](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/FrequencyOfCharacter.java) | O(n)      |
 | 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/IndicesSumString.java)                  | O(n)      |
-| 6     | [Decryption Password](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/DecryptionPassword.java)          | O(n)      |
+| 6     | [Decryption Password](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/DecryptionPassword.java)        | O(n)      |
+| 7     | [Maximum distance](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/MaximumDistance.java)           | O(n)      |
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                 | Time Complexity | Difficulty |
 |------|----------------------------------------------------------------------------------------------|-----------------|------------|
