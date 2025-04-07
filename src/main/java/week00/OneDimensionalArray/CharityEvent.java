@@ -5,12 +5,9 @@ import java.util.Scanner;
 public class CharityEvent {
     public static int charityEvent(int numberOfStudent){
         int chocolate = 0;
-        for(int i = 1;i <= numberOfStudent;i++){
-            chocolate += i;
-            if(i%5 == 0){
-                chocolate+=4;
-            }
-        }
+        int sum = (numberOfStudent * (numberOfStudent+1))/2;
+        int bonus = (int)(numberOfStudent/5);
+        chocolate = sum+(bonus*4);
         return chocolate;
     }
     public static void main(String[] args) {
