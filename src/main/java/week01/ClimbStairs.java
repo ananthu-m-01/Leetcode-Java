@@ -1,4 +1,4 @@
-package week00.OneDimensionalArray;
+package week01;
 
 public class ClimbStairs {
     public static int climbStairs(int n){
