@@ -21,8 +21,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 11    | [Largest and Smallest Element](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/LargestAndSmallestElement.java) | O(n) |
 | 12    | [Remove Duplicates](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/RemoveDuplicates.java)                     | O(n²) |
 | 13    | [Knowledge Enhancement](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/KnowledgeEnhancement.java)             | O(n²) |
-| 14    | [Charity Event](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/CharityEvent.java)                     | O(n) |
-
+| 14    | [Charity Event](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/CharityEvent.java)                             | O(n) |
+| 15    | [Students Marks](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/StudentsMarks.java)                    | O(n²) |
 ## Two dimensional array
 | Index | Program Name                                                                                                                                        | Time Complexity |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
