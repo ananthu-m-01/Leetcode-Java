@@ -55,6 +55,7 @@ public class OptimalMergePattern {
         for(int num : nums){
             System.out.print(num+ " ");
         }
+        System.out.println("\nmerging");
         optimalMerge(nums);
     }
 }
