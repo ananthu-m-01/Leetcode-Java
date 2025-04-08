@@ -22,6 +22,6 @@ public class RedGreenPen {
             numbers[i] = scanner.nextInt();
         }
         int answer = findGreenPen(numbers);
-        System.out.println("\nTotal number of time you need to swap from green pen to red pen : "+answer);
+        System.out.println("\nTotal number of time you need to swap from green pen to red pen : " +answer);
     }
 }
