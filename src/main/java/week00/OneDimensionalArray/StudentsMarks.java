@@ -1,4 +1,4 @@
-package week00;
+package week00.OneDimensionalArray;
 
 public class StudentsMarks {
     public static void bubbleSort(int[] nums){
