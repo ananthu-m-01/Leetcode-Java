@@ -61,7 +61,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 15    | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)         | O(n)            | Easy       |
 | 16    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                       | O(n)            | Easy       |
 | 17    | [Jump Game](https://leetcode.com/problems/jump-game)                                                      | O(n)            | Medium     |
-| 18    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                                | O(n)            | Easy       |
+| 18    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          | O(n)            | Easy       |
+| 19    | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                          | O(log n)            | Easy       |
 
 ## Week 02 - String
 | Index | Program Name                                                             | Time Complexity | Difficulty |
