@@ -47,7 +47,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 |-------|----------------------------------------------------------------------------------------------------------------------|-----------|
 | 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/Stack/StackLinearSearch.java) | O(n)      |
 
-# Let's start [leetcode](https://leetcode.com/git) 
+# Let's start [leetcode](https://leetcode.com) 
 
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
