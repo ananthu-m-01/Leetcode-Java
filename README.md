@@ -41,6 +41,14 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 5     | [Indices Sum](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/IndicesSumString.java)                  | O(n)      |
 | 6     | [Decryption Password](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/DecryptionPassword.java)        | O(n)      |
 | 7     | [Maximum distance](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/String/MaximumDistance.java)           | O(n)      |
+
+## Stack
+| Index | Program Name                                                                                                         | Time Complexity |
+|-------|----------------------------------------------------------------------------------------------------------------------|-----------|
+| 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/Stack/StackLinearSearch.java) | O(n)      |
+
+# Let's start [leetcode](https://leetcode.com/git) 
+
 ## Week 01 - ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
