@@ -1,4 +1,4 @@
-package week03;
+package week00.Stack;
 
 public class StackLinearSearch {
     public static int stackLinearSearch(int[] nums,int n,int target){
@@ -24,3 +24,4 @@ public class StackLinearSearch {
         System.out.println("time taken for searching : "+(ans+1));
     }
 }
+
