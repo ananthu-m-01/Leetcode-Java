@@ -26,6 +26,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 16    | [Red Green Pen](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/RedGreenPen.java)                              | O(n) |
 | 17    | [Optimal merge Pattern](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/OptimalMergePattern.java)              | O(n³) |
 | 18    | [Job Scheduling](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/JobScheduling.java)                           | O(n²) |
+| 19    | [Fractional Knapsack](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/FractionalKnapSack.java)                      | O(n²) |
 ## Two dimensional array
 | Index | Program Name                                                                                                                                        | Time Complexity |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
