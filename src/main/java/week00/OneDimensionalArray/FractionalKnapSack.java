@@ -4,7 +4,7 @@ package week00.OneDimensionalArray;
 public class FractionalKnapSack {
     public static void bubbleSort(double[] ratio,int[] weight,int[] profit){
         for(int i = 0;i < ratio.length;i++){
-            for(int j = 0;j < ratio.length-1;j++){
+            for(int j = 0;j < ratio.length-1-i;j++){
                 if(ratio[j+1] > ratio[j]){
                     double tempRatio = ratio[j];
                     ratio[j] = ratio[j+1];
@@ -26,7 +26,7 @@ public class FractionalKnapSack {
         double[] ratio = new double[weight.length];
 
         for(int i = 0;i < weight.length;i++){
-            ratio[i] = (double) (profit[i]/weight[i]);
+            ratio[i] = (double) profit[i]/weight[i];
         }
 
         bubbleSort(ratio,weight,profit);
@@ -39,6 +39,7 @@ public class FractionalKnapSack {
                 double fraction = (double) maxWeight/weight[i];
                 totalProfit += profit[i]*fraction;
                 maxWeight = 0;
+                break;
             }
         }
         System.out.println("Maximum profit: " + totalProfit);
