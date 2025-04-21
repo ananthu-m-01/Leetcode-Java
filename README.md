@@ -24,6 +24,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 14    | [Charity Event](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/CharityEvent.java)                             | O(n) |
 | 15    | [Students Marks](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/StudentsMarks.java)                           | O(n²) |
 | 16    | [Red Green Pen](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/RedGreenPen.java)                              | O(n) |
+| 17    | [Optimal merge Pattern](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/OptimalMergePattern.java)                      | O(n³) |
 
 ## Two dimensional array
 | Index | Program Name                                                                                                                                        | Time Complexity |
