@@ -39,13 +39,15 @@ public class HeapSort {
     public static void main(String[] args) {
         int[] arr = {12, 11, 13, 5, 6, 7};
         System.out.println("Original array:");
-        for (int num : arr)
+        for (int num : arr){
             System.out.print(num + " ");
+        }
         System.out.println();
         heapSort(arr);
         System.out.println("Sorted array:");
-        for (int num : arr)
+        for (int num : arr){
             System.out.print(num + " ");
+        }
         System.out.println();
     }
 }
