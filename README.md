@@ -86,9 +86,10 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)      | O(n)            | Easy       |
 
 ## Week 03 List
-| Index | Program Name                                                               | Time Complexity | Difficulty |
-|-------|----------------------------------------------------------------------------|-----------------|------------|
+| Index | Program Name                                                                                 | Time Complexity | Difficulty |
+|-------|----------------------------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | O(n)            | Easy       |
+| 2     | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | O(n)            | Easy       |
 
 
 ## Week 04 Math
