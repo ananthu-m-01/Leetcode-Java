@@ -1,4 +1,4 @@
-package week00.OneDimensionalArray;
+package week03;
 
 import java.util.Arrays;
 import java.util.List;
