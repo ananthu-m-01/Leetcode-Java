@@ -1,4 +1,4 @@
-package week01;
+package week04;
 
 public class CatsAndMouse {
     public static String catAndMouse(int x,int y,int z){
