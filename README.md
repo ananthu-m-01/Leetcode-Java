@@ -29,6 +29,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 19    | [Fractional Knapsack](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/FractionalKnapSack.java)                 | O(n²) |
 | 20    | [Hashing](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/OneDimensionalArray/Hashing.java)                                    | O(n) |
 
+
 ## Two dimensional array
 | Index | Program Name                                                                                                                                        | Time Complexity |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
@@ -53,7 +54,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 
 # Let's start [leetcode](https://leetcode.com) 
 
-## Week 01 - ARRAY
+## Week 01 ARRAY
 | Index | Program Name                                                                                              | Time Complexity | Difficulty |
 |-------|-----------------------------------------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Two Sum](https://leetcode.com/problems/two-sum/)                                                         | O(n)            | Easy       |
@@ -74,9 +75,9 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 16    | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                       | O(n)            | Easy       |
 | 17    | [Jump Game](https://leetcode.com/problems/jump-game)                                                      | O(n)            | Medium     |
 | 18    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          | O(n)            | Easy       |
-| 19    | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                          | O(log n)            | Easy       |
+| 19    | [Elctronic Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                          | O(n²) |
 
-## Week 02 - String
+## Week 02 String
 | Index | Program Name                                                             | Time Complexity | Difficulty |
 |-------|--------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
@@ -87,3 +88,9 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | Index | Program Name                                                               | Time Complexity | Difficulty |
 |-------|----------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Jumping on the clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem) | O(n)            | Easy       |
+
+
+## Week 04 Math
+| Index | Program Name                                                               | Time Complexity | Difficulty |
+|------|----------------------------------------------------------------------------|-----------------|------------|
+| 1    | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                           | O(log n)            | Easy       |
