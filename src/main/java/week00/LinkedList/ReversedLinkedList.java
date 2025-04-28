@@ -53,12 +53,12 @@ public class ReversedLinkedList {
         list.insert(3);
         list.insert(4);
 
-        System.out.println("Original List:");
+        System.out.println("Original List :");
         list.printList();
 
         list.reverse();
 
-        System.out.println("Reversed List:");
+        System.out.println("Reversed List :");
         list.printList();
     }
 }
