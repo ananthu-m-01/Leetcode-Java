@@ -52,6 +52,12 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 |-------|----------------------------------------------------------------------------------------------------------------------|-----------|
 | 1     | [Linear Search](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/Stack/StackLinearSearch.java) | O(n)      |
 
+
+## Linked List
+| Index | Program Name                                                                                                                          | Time Complexity |
+|-------|---------------------------------------------------------------------------------------------------------------------------------------|-----------|
+| 1     | [Reversing the Linkedlist](https://github.com/ananthu-m-01/Leetcode-Java/blob/main/src/main/java/week00/LinkedList/ReversedLinkedList.java) | O(n)      |
+
 # Let's start [leetcode](https://leetcode.com) 
 
 ## Week 01 ARRAY
@@ -76,7 +82,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 17    | [Jump Game](https://leetcode.com/problems/jump-game)                                                      | O(n)           | Medium     |
 | 18    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          | O(n)           | Easy       |
 | 19    | [Electronic Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                         | O(n²) | Easy       |
-| 20     | [Cat and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                           | O(n) | Easy       |
+| 20    | [Cat and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                           | O(n) | Easy       |
+| 21    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                         | O(n) | Easy       |
 
 ## Week 02 String
 | Index | Program Name                                                             | Time Complexity | Difficulty |
