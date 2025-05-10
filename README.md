@@ -101,5 +101,6 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 
 ## Week 04 Math
 | Index | Program Name                                                               | Time Complexity | Difficulty |
-|------|----------------------------------------------------------------------------|-----------------|------------|
-| 1    | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                           | O(log n)            | Easy       |
+|-------|----------------------------------------------------------------------------|-----------------|------------|
+| 1     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                    | O(log n)            | Easy       |
+| 2     | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                           | O(log n)            | Easy       |
