@@ -87,11 +87,12 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 22    | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)                                                         | O(n) | Easy       |
 
 ## Week 02 String
-| Index | Program Name                                                             | Time Complexity | Difficulty |
-|-------|--------------------------------------------------------------------------|-----------------|------------|
+| Index | Program Name                                                            | Time Complexity | Difficulty |
+|-------|-------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | O(n)            | Easy       |
-| 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)      | O(n)            | Easy       |
-| 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)      | O(n)            | Easy       |
+| 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)     | O(n)            | Easy       |
+| 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)     | O(n)            | Easy       |
+| 4     | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)      | O(n)            | Easy       |
 
 ## Week 03 List
 | Index | Program Name                                                                                 | Time Complexity | Difficulty |
