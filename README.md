@@ -83,7 +83,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 18    | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)                                          | O(n)           | Easy       |
 | 19    | [Electronic Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)                         | O(n²) | Easy       |
 | 20    | [Cat and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)                           | O(n) | Easy       |
-| 21    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                         | O(n) | Easy       |
+| 21    | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                   | O(n) | Easy       |
+| 22    | [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)                                                         | O(n) | Easy       |
 
 ## Week 02 String
 | Index | Program Name                                                             | Time Complexity | Difficulty |
