@@ -106,3 +106,8 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 |-------|----------------------------------------------------------------------------|-----------------|------------|
 | 1     | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                    | O(log n)            | Easy       |
 | 2     | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                                           | O(log n)            | Easy       |
+
+## Week 05 Linked List
+| Index | Program Name                                                               | Time Complexity | Difficulty |
+|-------|----------------------------------------------------------------------------|-----------------|------------|
+| 1     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                    | O(n)            | Easy       |
