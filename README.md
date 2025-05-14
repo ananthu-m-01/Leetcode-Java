@@ -110,4 +110,5 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 ## Week 05 Linked List
 | Index | Program Name                                                               | Time Complexity | Difficulty |
 |-------|----------------------------------------------------------------------------|-----------------|------------|
-| 1     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                    | O(n)            | Easy       |
+| 1     | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                            | O(n)            | Easy       |
+| 2     | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                                                    | O(n)            | Easy       |
