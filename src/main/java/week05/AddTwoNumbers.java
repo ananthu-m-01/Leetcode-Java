@@ -1,15 +1,16 @@
 package week05;
 
-class ListNode{
+class ListNode {
     int val;
     ListNode next;
-    ListNode(){}
 
-    ListNode(int val){
+    ListNode() {}
+
+    ListNode(int val) {
         this.val = val;
     }
 
-    ListNode(int val,ListNode next){
+    ListNode(int val, ListNode next) {
         this.val = val;
         this.next = next;
     }
@@ -29,12 +30,11 @@ class Solution {
             carry = current_sum / 10;
             int last_digit = current_sum % 10;
 
-            ListNode new_node = new ListNode(last_digit);
-            l3.next = new_node;
+            l3.next = new ListNode(last_digit);
+            l3 = l3.next;
 
             if (l1 != null) l1 = l1.next;
             if (l2 != null) l2 = l2.next;
-            l3 = l3.next;
         }
 
         if (carry > 0) {
@@ -44,6 +44,7 @@ class Solution {
         return dummy_head.next;
     }
 }
+
 public class AddTwoNumbers {
     public static ListNode createList(int[] digits) {
         ListNode dummy = new ListNode(0);
@@ -66,10 +67,10 @@ public class AddTwoNumbers {
 
     public static void main(String[] args) {
         Solution solution = new Solution();
-        ListNode l1 = createList(new int[]{2, 4, 3});
-        ListNode l2 = createList(new int[]{5, 6, 4});
+        ListNode l1 = createList(new int[]{2, 4, 3});  // represents 342
+        ListNode l2 = createList(new int[]{5, 6, 4});  // represents 465
 
-        ListNode result = solution.addTwoNumbers(l1, l2);
+        ListNode result = solution.addTwoNumbers(l1, l2);  // should be 7 -> 0 -> 8
 
         System.out.print("Result: ");
         printList(result);
