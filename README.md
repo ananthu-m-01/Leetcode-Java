@@ -93,6 +93,7 @@ Before going to solve the complex [leetcode](https://leetcode.com/) problems, we
 | 2     | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)     | O(n)            | Easy       |
 | 3     | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)     | O(n)            | Easy       |
 | 4     | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)      | O(n)            | Easy       |
+| 5     | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)      | O(n)            | Easy       |
 
 ## Week 03 List
 | Index | Program Name                                                                                 | Time Complexity | Difficulty |
