@@ -20,9 +20,9 @@ public class FractionalKnapSack {
         }
     }
     public static void main(String[] args) {
-        int[] weight = {5,6,4,2,8,3};
-        int[] profit = {10,14,10,6,15,11};
-        int maxWeight = 19;
+        int[] weight = {10,20,30,40,25,15};
+        int[] profit = {60,100,120,160,75,45};
+        int maxWeight = 90;
         double[] ratio = new double[weight.length];
 
         for(int i = 0;i < weight.length;i++){
